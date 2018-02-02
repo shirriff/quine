@@ -4,6 +4,8 @@ Create a quine scarf. The idea is to create a scarf that includes the program us
 
 ![Quine scarf](https://raw.githubusercontent.com/shirriff/quine/master/quine4.png)
 
+Quine scarves (and other cool algorithmically generated knitwear) are for sale (not by me) at [knityak.com](http://knityak.com).
+
 Run "python quine.py" to produce quine.png, an image of quine.py.
 
 ![Quine scarf #5](https://raw.githubusercontent.com/shirriff/quine/master/quine5.png)
